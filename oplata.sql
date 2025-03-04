@@ -1,4 +1,4 @@
-use agenstvo;
+use hggujghjhg;
 CREATE TABLE netZarplata (
     id INT AUTO_INCREMENT PRIMARY KEY, 
     nomer INT NOT NULL,      
