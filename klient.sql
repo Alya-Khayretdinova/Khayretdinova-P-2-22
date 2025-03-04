@@ -1,4 +1,4 @@
-use dfgdfg;
+use cvvvvv;
 CREATE TABLE oplata (
     id INT AUTO_INCREMENT PRIMARY KEY, 
     nomer INT NOT NULL,      
